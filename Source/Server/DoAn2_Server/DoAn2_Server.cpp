@@ -1,7 +1,7 @@
 ﻿// Server.cpp : Defines the entry point for the console application.
 //
 
-#include "stdafx.h"
+#include "stdaf.h"
 #include "resource.h"
 #include "afxsock.h"
 #include "math.h"
